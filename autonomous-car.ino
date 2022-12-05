@@ -25,7 +25,7 @@ void setup() {
   for (int i = 0; i < 10; i++) {
     Serial.println();
   }
-  Serial.println("Adafruit Motorshield v2 - DC Motor test!");
+  Serial.println("Adafruit Motorshield v2 - Autonomous Car");
 
   AFMS.begin(); 
   
